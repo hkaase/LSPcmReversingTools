@@ -1,0 +1,1 @@
+This patch was not developed by me. It was developed by LegacyNSFW. To use, place the contents of this folder in your $GHIDRAHOME\Ghidra\Processors\68000\data\languages folder. Then, when importing a binary, select 68000 CPU32 as the processor.
